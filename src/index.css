@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.flexBox{
+  display: flex;
+  flex-direction: row;
+}
+.LeftSection,.RightSection{
+  width: 50%;
+  height: 100vh;
+  background-color: green;
+}
+.LeftSection{
+
+}
+.RightSection{
+
+}
